@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+    padding: 15px 50px;
+    width: 15cm;
+    border-radius: 10px;
+    font-family: PT serif;
+
+}
+
+td {
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 40px;
+    font-style: normal;
+}
+
+input {
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+input#submit {
+    margin-top: 7px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    background-color: blue;
+    margin-left: 105%;
+    width: 120px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+}
