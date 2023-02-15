@@ -44,6 +44,7 @@ input#submit {
     margin-left: 108%;
     width: 6cm ;
     border: none;
+    cursor: pointer;
 
 }
 
